@@ -3,5 +3,17 @@ body{
   padding: 20px;
   line-height:1.5;
   font-family: candara;
+  color: rgb(0, 0, 0);
 }
 
+h1{
+  color:rgb(0, 0, 0);
+  aling: center;
+  font-size: 18px;
+  margem-bottom: 10px;
+}
+
+p{
+  font-size: 12px;
+  margem-bottom:12px
+}
