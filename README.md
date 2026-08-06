@@ -1,4 +1,5 @@
-<img width="512" height="512" alt="images" src="https://github.com/user-attachments/assets/da27248a-be53-493e-892e-2bc983ce22bf" />
+
+
 # devops-ci
 Apenas para trabalho escolar.
 [index.html](https://github.com/user-attachments/files/30802561/index.html)[style.css](https://github.com/user-attachments/files/30802563/style.css)
